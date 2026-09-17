@@ -80,4 +80,5 @@
     </Target>
     -->
 
+  <Import Project="build\Thunderstore.targets" />
 </Project>

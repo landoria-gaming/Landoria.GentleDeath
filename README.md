@@ -1,5 +1,8 @@
 # GentleDeath
 
+Snapshot builds use LandoriaModActions@v4.3 and the shared private references.
+Requires MOD_REFERENCES_TOKEN. Runs on main only when both versions match X.Y.Z-snapshot.
+
 Keeps equipable items after death while moving other inventory items to the tombstone.
 
 ## Video demo
