@@ -29,4 +29,3 @@ Equipable items follow Valheim's `ItemData.IsEquipable()` classification.
 ## Contact
 
 Report bugs through [GitHub Issues](https://github.com/landoria-gaming/Landoria.GentleDeath/issues).
-For questions, feedback, and other discussions, use [GitHub Discussions](https://github.com/landoria-gaming/Landoria.GentleDeath/discussions).
