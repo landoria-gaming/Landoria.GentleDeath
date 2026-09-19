@@ -1,16 +1,10 @@
 # GentleDeath
 
-Requires MOD_REFERENCES_TOKEN. All five versions must match; only manifest and informational version use -snapshot.
-
 Keeps equipable items after death while moving other inventory items to the tombstone.
 
 ## Video demo
 
 [Watch GentleDeath in action on YouTube](https://youtu.be/O61d6w3ZpVs).
-
-## Valheim compatibility
-
-Current release: 1.0.x
 
 ## Features
 
