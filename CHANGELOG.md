@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.13
+
+- Updated readme
+
 ## 1.0.12
 
 - Migration to Valheim 1.0.x.
