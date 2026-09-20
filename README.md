@@ -9,18 +9,12 @@ Keeps equipable items after death while moving other inventory items to the tomb
 ## Features
 
 - Keeps weapons, tools, armor, shields, ammunition, utility items, and trinkets.
-- Preserves the equipped state of retained items.
 - Moves non-equipable treasures and materials to the tombstone.
-- Keeps an item safely when the tombstone has no available space.
 - Replaces the world's configured vanilla inventory death penalty.
-
-Equipable items follow Valheim's `ItemData.IsEquipable()` classification.
 
 ## Installation
 
-| Client required | Server required (dedicated) | Player-hosted server |
-|---|---|---|
-| Yes | No | Not Supported |
+This is a client-only mod and does not need to be installed on the server.
 
 ## Contact
 
