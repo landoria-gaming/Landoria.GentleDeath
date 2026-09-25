@@ -9,7 +9,7 @@ namespace Landoria.GentleDeath
     {
         private const string PluginGuid = "Landoria.GentleDeath";
         private const string PluginName = "Landoria.GentleDeath";
-        private const string PluginVersion = "1.0.13";
+        private const string PluginVersion = "1.0.14";
 
         internal static ManualLogSource Log { get; private set; }
 
