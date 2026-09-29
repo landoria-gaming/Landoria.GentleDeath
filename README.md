@@ -5,7 +5,7 @@ Keeps equipable items after death while moving other inventory items to the tomb
 ## Video demo
 
 <p align="left">
-  <a href="https://youtu.be/O61d6w3ZpVs"><img src="https://raw.githubusercontent.com/landoria-gaming/Landoria.GentleDeath/main/assets/gentle-death.jpg" alt="GentleDeath video demo" width="300"></a>
+  <a href="https://youtu.be/O61d6w3ZpVs"><img src="https://raw.githubusercontent.com/landoria-gaming/Landoria.GentleDeath/main/assets/gentle-death.png" alt="GentleDeath video demo" width="300"></a>
 </p>
 
 ## Features
